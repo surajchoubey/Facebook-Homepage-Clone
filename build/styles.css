@@ -1,0 +1,22 @@
+.body-main{
+    background: linear-gradient(to bottom ,#fefefe , #d3d8e8) !important;
+    height: 100vh;
+    position: fixed;
+}
+
+.header{
+    background-color: #3b5998 !important;
+    min-width: 100vw;
+}
+
+#tnc{
+    font-size: 0.7em;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.loginner{
+	min-width: 15vw;
+}
